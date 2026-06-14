@@ -1,5 +1,5 @@
-# 💼 CODSOFT Internship Projects
-This repository contains the projects completed as part of my internship with CodSoft. Each task focuses on applying machine learning and data analysis techniques to solve practical problems using Python.
+# ML Basic Projects
+Each task focuses on applying machine learning and data analysis techniques to solve practical problems using Python.
 ## 📂 Folder Structure
 - 📁 Task1_titanic – Titanic Survival Prediction  
 - 📁 Task3_iris – Iris Flower Classification  
