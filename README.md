@@ -28,5 +28,5 @@ Each task focuses on applying machine learning and data analysis techniques to s
 ## 📌 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/SriGowri05/CODSOFT.git
+   git clone https://github.com/SriGowri05/ML_Basic_Projects.git 
   
